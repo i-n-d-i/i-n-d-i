@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi, I'm Indira 👋
 
-<!--
-**i-n-d-i/i-n-d-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a student of the Moscow State University faculty of Computational Mathematics and Cybernetics
 
-Here are some ideas to get you started:
+### Small goals that I want to achieve
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learn HTML/CSS/JS
+- Join the web programming community
+- Get an internship at Yandex
+
+### Connect with me:
+
+[<img align="left" alt="Telegram| Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/heyitsindira)
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/heyitsindira)
+
+<br />
+
+### Languages and Tools:
+
+- C/C++
+- Python
+- Java
+- git
+
+<br />
+
+---
