@@ -19,6 +19,7 @@
 
 - C/C++
 - Python
+- Golang
 - Java
 - git
 
